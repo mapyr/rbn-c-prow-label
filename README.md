@@ -2,3 +2,4 @@
 
 scorecard Code-Review lab — Prow labels + self-merge
 approved-label change
+lgtm-label change
